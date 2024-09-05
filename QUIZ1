@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html> 
+<html lang="en"> 
   <head>
+    <meta charset="utf-8">
     <title>Hello, World!</title>
+    <meta name="author" content="Ariel Molina">
   <head>
   <body>
     <p>Ariel Molina, GIT 337</p>
